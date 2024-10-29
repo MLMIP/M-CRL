@@ -3,6 +3,13 @@ This repository provides the official PyTorch implementation of the paper [Multi
 ![image](https://github.com/MLMIP/MMCRL/blob/main/img/MMCRL.png)
 
 ## Installation
+We suggest using Anaconda to setup environment on Linux. We can install packages using provided `environment.yaml`.
+
+```shell
+cd MMCRL
+conda env create -f environment.yaml
+conda activate MMCRL
+```
 
 ## Data Preparation
 
