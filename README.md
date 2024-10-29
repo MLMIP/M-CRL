@@ -2,15 +2,15 @@
 This repository provides the official PyTorch implementation of the paper [Multi-view Masked Contrastive Representation Learning for Endoscopic Video Analysis]()
 ![image](https://github.com/MLMIP/MMCRL/blob/main/img/MMCRL.png)
 
-##Installation
+## Installation
 
-##Data Preparation
+## Data Preparation
 
-##Pre-training
+## Pre-training
 
-##Fine-tuning
+## Fine-tuning
 
-##Citation
+## Citation
 @article{hu2024one,
   title={Multi-view Masked Contrastive Representation Learning for Endoscopic Video Analysis},
   author={Hu, Kai and Xiao, Ye and Zhang, Yuan and Gao, Xieping}
