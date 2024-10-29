@@ -23,7 +23,7 @@ downstream weight:
 
 [Classification]()
 
-[Segmentation]()
+[Segmentation](https://pan.baidu.com/s/1qrSVpMcdeCk7T-lHO7LvEA?pwd=tymi)
 
 [Detection]()
 
