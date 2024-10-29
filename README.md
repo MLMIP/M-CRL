@@ -1,2 +1,4 @@
 # M²CRL
-### The code is being organized and will be open-sourced soon.
+### Multi-view Masked Contrastive Representation Learning for Endoscopic Video Analysis
+
+This repository provides the official PyTorch implementation of the paper [Multi-view Masked Contrastive Representation Learning for Endoscopic Video Analysis]()
