@@ -14,6 +14,14 @@ conda activate MMCRL
 ## Data Preparation
 We use the datasets provided by [Endo-FM](https://github.com/med-air/Endo-FM) and are grateful for their valuable work.
 
+## weights
+pretrain weight
+[pretrain]()
+downstream weight
+[Classification]()
+[Segmentation]()
+[Detection]()
+
 ## Pre-training
 ```shell
 cd MMCRL
