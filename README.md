@@ -59,7 +59,6 @@ Our code is based on [Endo-FM](https://github.com/med-air/Endo-FM), [DINO](https
   title={Multi-view Masked Contrastive Representation Learning for Endoscopic Video Analysis},
   author={Hu, Kai and Xiao, Ye and Zhang, Yuan and Gao, Xieping}
   journal={Advances in Neural Information Processing Systems},
-  volume={},
   year={2024}
 }
 ```
